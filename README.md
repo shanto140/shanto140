@@ -1,63 +1,100 @@
-# Shanto Roy
+<h1 align="center">Shanto Roy</h1>
+<h3 align="center">Software Engineering Student · SUST</h3>
 
-**Software Engineering · Shahjalal University of Science and Technology (SUST)**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LC_HANDLE)
+<p align="center">
+  <a href="mailto:shantochandraroy140@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://facebook.com/YOUR_FACEBOOK">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## About
 
-I am a Software Engineering student at SUST with a strong foundation in algorithmic problem solving. My primary focus is competitive programming, where I have solved over **2,500 problems** across multiple online judges. Alongside CP, I am actively building my skills in modern web development.
-
-I enjoy digging into how technology works at a fundamental level and thrive when faced with problems that require thinking from first principles.
+Software Engineering student at Shahjalal University of Science and Technology (SUST) with a strong focus on competitive programming and algorithmic problem solving. I enjoy breaking down complex problems and understanding how things work under the hood. Currently expanding into web development to complement my engineering background.
 
 ---
 
 ## Competitive Programming
 
-| Platform | Handle | Details |
-|----------|--------|---------|
-| Codeforces | [YOUR_CF_HANDLE](https://codeforces.com/profile/YOUR_CF_HANDLE) | 1,840 problems solved · Max Rating **1508** |
-| CodeChef | [YOUR_CC_HANDLE](https://www.codechef.com/users/YOUR_CC_HANDLE) | Active contestant |
-| LeetCode | [YOUR_LC_HANDLE](https://leetcode.com/YOUR_LC_HANDLE) | Regular problem solver |
-| VJudge | [YOUR_VJ_HANDLE](https://vjudge.net/user/YOUR_VJ_HANDLE) | Multi-judge practice |
+**2,500+ problems solved** across multiple platforms
 
-> **2,500+ total problems solved** across all platforms
+<p>
+  <a href="https://codeforces.com/profile/shanto140">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/YOUR_LC_HANDLE">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/YOUR_CC_HANDLE">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://vjudge.net/user/YOUR_VJ_HANDLE">
+    <img src="https://img.shields.io/badge/VJudge-333333?style=flat-square&logoColor=white" />
+  </a>
+</p>
+
+Codeforces — 1,840 problems solved · Max Rating **1508**
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages**
-`C++` `JavaScript` `Python`
+<h4>Languages</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
+</p>
 
-**Web Development**
-`React` `Node.js` `HTML` `CSS` `Tailwind CSS` `MySQL`
+<h4>Web Development</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" />
+</p>
 
-**Tools & Platforms**
-`Git` `GitHub` `VS Code`
+<h4>Tools</h4>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="36" />
+</p>
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="160" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shanto140&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanto140&langs_count=6&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shanto140&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## Currently
 
-- 🎓 Pursuing B.Sc. in Software Engineering at SUST
-- 💻 Building web development skills alongside competitive programming
-- 🔍 Looking for opportunities to apply algorithmic thinking to real-world engineering problems
+- 🎓 B.Sc. in Software Engineering at SUST
+- 🔨 Building web development skills alongside competitive programming
+- 👀 Open to internships and entry-level opportunities
 
 ---
 
-*Open to internships, research collaborations, and interesting projects.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanto140&label=Profile+Views&color=6e40c9&style=flat-square" />
+</p>
