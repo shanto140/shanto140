@@ -5,13 +5,13 @@
   <a href="mailto:shantochandraroy140@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/shanto-roy-633a772b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://facebook.com/YOUR_FACEBOOK">
+  <a href="https://facebook.com/shreeshantoroy">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/shantoroy154">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -29,19 +29,19 @@ Software Engineering student at Shahjalal University of Science and Technology (
 **2,500+ problems solved** across multiple platforms
 
 <p>
-  <a href="https://codeforces.com/profile/shanto140">
+  <a href="https://codeforces.com/profile/qqueue">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>&nbsp;
-  <a href="https://leetcode.com/YOUR_LC_HANDLE">
+  <a href="https://leetcode.com/RoyShanto">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>&nbsp;
-  <a href="https://www.codechef.com/users/YOUR_CC_HANDLE">
+  <a href="https://www.codechef.com/users/shanto_roy">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>&nbsp;
-  <a href="https://vjudge.net/user/YOUR_VJ_HANDLE">
+  <a href="https://vjudge.net/user/royshanto">
     <img src="https://img.shields.io/badge/VJudge-333333?style=flat-square&logoColor=white" />
   </a>&nbsp;
-  <a href="https://atcoder.jp/users/YOUR_AC_HANDLE">
+  <a href="https://atcoder.jp/users/Shanto_Roy">
     <img src="https://img.shields.io/badge/AtCoder-1A1A1A?style=flat-square&logo=atcoder&logoColor=white" />
   </a>
 </p>
